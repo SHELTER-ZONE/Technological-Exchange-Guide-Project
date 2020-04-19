@@ -13,7 +13,10 @@ module.exports = {
                 path:'/Coding/coding_index',
                 collapsable: false,
                 sidebarDepth: 1,
-                children:[]
+                children: [
+                    '/Coding/bad_example',
+                    '/Coding/sense',
+                ]
             },
             {
                 title:'3D',

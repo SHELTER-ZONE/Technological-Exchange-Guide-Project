@@ -2,6 +2,3 @@
 
 ## section 1
 content...
-
-## section 1
-content...
