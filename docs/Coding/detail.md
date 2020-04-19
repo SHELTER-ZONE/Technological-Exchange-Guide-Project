@@ -14,7 +14,7 @@
 > }
 > ```
 >> **請問這個錯誤是甚麼意思?**  
->> ```H.cpp:4:31: error: expected ';' before 'return' std::cout << "Hello World"```  
+>> ```HelloWorld.cpp:4:31: error: expected ';' before 'return' std::cout << "Hello World"```  
 
 #
 都0202年了還在用手機拍螢幕  ~~不俗嗎~~  
