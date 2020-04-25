@@ -2,9 +2,11 @@ module.exports = {
     title :  'SHELTER ZONE | Ask Questions Guide',
     description:  'SZ Ask Questions Guide',
     themes: 'vuepress',
-    base: '/Ask-Questions-Guide/',
+    base: '/Ask-Questions-Guide-Doc/',
 
     themeConfig: {
+        //  頁面滾動
+        smoothScroll: true,
         // 側邊導航欄設定
         sidebar:[
             '/',
@@ -14,8 +16,10 @@ module.exports = {
                 collapsable: false,
                 sidebarDepth: 1,
                 children: [
-                    '/Coding/bad_example',
+                    'Coding/must_learn',
                     '/Coding/sense',
+                    '/Coding/dont_todo',
+                    '/Coding/need_todo',
                 ]
             },
             {
