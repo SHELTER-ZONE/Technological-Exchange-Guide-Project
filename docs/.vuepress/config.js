@@ -27,14 +27,24 @@ module.exports = {
                 path: '/3D/3D_index.md',
                 collapsable: false,
                 sidebarDepth: 1,
-                children:[]
+                children: [
+                    '3D/must_learn',
+                    '/3D/sense',
+                    '/3D/dont_todo',
+                    '/3D/need_todo',
+                ]
             },
             {
                 title:'2D',
                 path: '/2D/2D_index.md',
                 collapsable: false,
                 sidebarDepth: 1,
-                children:[]
+                children: [
+                    '2D/must_learn',
+                    '/2D/sense',
+                    '/2D/dont_todo',
+                    '/2D/need_todo',
+                ]
             },
         ],
 
