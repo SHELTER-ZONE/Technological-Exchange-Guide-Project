@@ -43,7 +43,19 @@
 
 當你的 Pull Requests 被 Merge 後，@Proladon會幫你把 Processing 中的 card 移除
 
-> 其餘內文相關標準格式待日後定義提出，請關注。
+
+### 內文標準語規定
+#### <英文單字>
+夾在中文中的英文單字請前後加上空格
+```
+ex. 這份專案屬於_SHELTER ZONE_的財產
+```
+> "_" 代表空格
+
+#### <範例請用CodeBlock>
+
+
+其餘內文相關標準格式待日後定義提出，請關注。
 ---
 ## Contributors
 ### Coder
