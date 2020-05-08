@@ -33,6 +33,16 @@
 
 以免造成大家隨意新增文件在不同資料夾，檔案混亂的狀況，會使我後續要花很多時間去整合
 
+
+### 承接任務與進行中任務
+在 [Project](https://github.com/SHELTER-ZONE/Ask-Questions-Guide-Project/projects) 有 `TODO` 與 `Processing` 現況
+
+`TODO`： @Proladon 新增派發，所有人可以直接承接來進行處裡
+
+`Processing` ： 所有人如果想到新的或是以在進行中的，請在此新增卡片，須包含`編號`與`標題`，簡介可寫可不寫
+
+當你的 Pull Requests 被 Merge 後，@Proladon會幫你把 Processing 中的 card 移除
+
 > 其餘內文相關標準格式待日後定義提出，請關注。
 ---
 ## Contributors
