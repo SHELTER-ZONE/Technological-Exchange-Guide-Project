@@ -35,7 +35,7 @@
 
 
 ### 承接任務與進行中任務
-在 [Project](https://github.com/SHELTER-ZONE/Ask-Questions-Guide-Project/projects) 有 `TODO` 與 `Processing` 現況
+在 [Project](https://github.com/SHELTER-ZONE/Ask-Questions-Guide-Project/projects/1) 有 `TODO` 與 `Processing` 現況
 
 `TODO`： @Proladon 新增派發，所有人可以直接承接來進行處裡
 
