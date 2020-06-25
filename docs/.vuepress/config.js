@@ -1,8 +1,8 @@
 module.exports = {
-    title :  'SHELTER ZONE | Ask Questions Guide',
-    description:  'SZ Ask Questions Guide',
+    title :  'SHELTER ZONE | 技術交流指南 Technological Exchange Guide',
+    description:  'SZ Technological Exchange Guide',
     themes: 'vuepress',
-    base: '/Ask-Questions-Guide-Doc/',
+    base: '/Technological-Exchange-Guide/',
 
     themeConfig: {
         //  頁面滾動
